@@ -39,7 +39,6 @@ I'm Ravi working as a Mirosoft Full Stack Web Developer. I Spend most of time co
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
-<br/>
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ravikoppula.ravikoppula)
@@ -48,8 +47,6 @@ I'm Ravi working as a Mirosoft Full Stack Web Developer. I Spend most of time co
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ravikoppula&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-
 
 #### Coding Stats
 <!--START_SECTION:waka-->
