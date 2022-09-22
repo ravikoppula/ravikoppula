@@ -51,7 +51,13 @@ I'm Ravi working as a Mirosoft Full Stack Web Developer. I Spend most of time co
 
 #### Coding Stats
 <!--START_SECTION:waka-->
- 
+
+```text
+Markdown   21 mins         █████████████▒░░░░░░░░░░░   52.76 %
+YAML       18 mins         ███████████▒░░░░░░░░░░░░░   45.54 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+```
+
 <!--END_SECTION:waka-->
 
 
