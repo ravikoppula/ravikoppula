@@ -21,25 +21,25 @@ I'm Ravi working as a Mirosoft Full Stack Web Developer. I Spend most of time co
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![.Net Badge](https://img.shields.io/badge/-.NetCore-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![.Net Badge](https://img.shields.io/badge/-ASP.NETMVC-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![.Net Badge](https://img.shields.io/badge/-RestAPI-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-SQL-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-Postgresql-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-AzureDB-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-CSharp-61DBFB?style=for-the-badge&labelColor=black&logo=.net&logoColor=61DBFB)](#) 
+[![.Net Badge](https://img.shields.io/badge/-.NetCore-61DBFB?style=for-the-badge&labelColor=black&logo=.net&logoColor=61DBFB)](#) 
+[![.Net Badge](https://img.shields.io/badge/-ASP.NETMVC-61DBFB?style=for-the-badge&labelColor=black&logo=.net&logoColor=61DBFB)](#) 
+[![.Net Badge](https://img.shields.io/badge/-RestAPI-61DBFB?style=for-the-badge&labelColor=black&logo=.net&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-SQL-61DBFB?style=for-the-badge&labelColor=black&logo=microsoftsqlserver&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-Postgresql-61DBFB?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-AzureDB-61DBFB?style=for-the-badge&labelColor=black&logo=microsoftazure&logoColor=61DBFB)](#)
 
-[![.Net Badge](https://img.shields.io/badge/-WebServices-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-Bootstrap-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-JQuery-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-AJax-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-SSRSReports-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![.Net Badge](https://img.shields.io/badge/-RDLCReports-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![.Net Badge](https://img.shields.io/badge/-WebServices-61DBFB?style=for-the-badge&labelColor=black&logo=.net&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-Bootstrap-61DBFB?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-JQuery-61DBFB?style=for-the-badge&labelColor=black&logo=jquery&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-AJax-61DBFB?style=for-the-badge&labelColor=black&logo=ajax&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-SSRSReports-61DBFB?style=for-the-badge&labelColor=black&logo=SQLServerReportingServices&logoColor=61DBFB)](#)
+[![.Net Badge](https://img.shields.io/badge/-RDLCReports-61DBFB?style=for-the-badge&labelColor=black&logo=reports&logoColor=61DBFB)](#)
+[![React Badge](https://img.shields.io/badge/-angular-61DBFB?style=for-the-badge&labelColor=black&logo=angular&logoColor=61DBFB)](#)
+[![React Badge](https://img.shields.io/badge/-react-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 
-<br/>
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ravikoppula.ravikoppula)
@@ -49,13 +49,16 @@ I'm Ravi working as a Mirosoft Full Stack Web Developer. I Spend most of time co
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ravikoppula&count_private=true&theme=tokyonight&hide=contribs,prs)
 
-
-
 #### Coding Stats
 <!--START_SECTION:waka-->
- 
-<!--END_SECTION:waka-->
 
+```text
+Markdown   21 mins         █████████████▒░░░░░░░░░░░   52.76 %
+YAML       18 mins         ███████████▒░░░░░░░░░░░░░   45.54 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+```
+
+<!--END_SECTION:waka-->
 
 
 
