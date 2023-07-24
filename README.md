@@ -15,7 +15,7 @@ I'm Ravi working as a Mirosoft Full Stack Developer. I Spend most of my time cod
 - 💬 Ask me about Microsoft Technologies.
 - 📫 How to reach me: ravikoppula92@gmail.com.
 - 😄 Pronouns: Ravi.
-- ⚡ Fun fact: Reading books, travelling, cycling, hiking, camping and go to the GYM very often.
+- ⚡ Fun fact: Reading books, travelling, cycling, hiking, camping and going to the GYM very often.
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories --> 
