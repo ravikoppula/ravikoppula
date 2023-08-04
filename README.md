@@ -30,7 +30,7 @@ I'm Ravi working as a Mirosoft Full Stack Developer. I Spend most of my time cod
 
 
 #### Abstract
-- :paperclip: [My Resume/CV](https://github.com/ravikoppula/ravikoppula/blob/main/resumes/resume_v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/ravikoppula/ravikoppula/blob/main/resumes/resume_v2.0.pdf)
 - :email: ravikoppula92@gmail.com
 
 #### Profile Visits 
