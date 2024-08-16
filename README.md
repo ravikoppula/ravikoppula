@@ -8,7 +8,7 @@ I'm Ravi working as a Mirosoft Full Stack Developer. I Spend most of my time cod
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @BMW.
+- 🔭 I’m currently working at @RHB Bank.
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently exploring react and AWS database.
 - 🤔 I’m looking for help with react hybrid mobile app routing.
