@@ -1,6 +1,6 @@
 ## Hi I'm Ravi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Ravi working as a Mirosoft Full Stack Developer. I Spend most of my time coding or doing research on new technologies and travelling, reading books and hiking.
+I'm Ravi working as a Mirosoft Full Stack Developer. I spend most of my time coding or doing research on new technologies. I am also very passionate about travelling, learning new cultures, reading and doing outdoor activities.
 
 :mailbox: Reach me out!
 
@@ -8,14 +8,14 @@ I'm Ravi working as a Mirosoft Full Stack Developer. I Spend most of my time cod
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @RHB Bank.
+- 🔭 I’m currently residing in Toronto and looking for new opportunities.
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently exploring react and AWS database.
-- 🤔 I’m looking for help with react hybrid mobile app routing.
+- 🤔 I’m looking for opportunity to learn about AI related programming.
 - 💬 Ask me about Microsoft Technologies.
 - 📫 How to reach me: ravikoppula92@gmail.com.
 - 😄 Pronouns: Ravi.
-- ⚡ Fun fact: Reading books, travelling, cycling, hiking, camping and going to the GYM very often.
+- ⚡ Fun fact: Reading books, travelling, cycling, hiking, camping and working out. 
 
 #### Top Technologies
 <!-- TODO: Make technologies links takes you to repositories --> 
